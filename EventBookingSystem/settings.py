@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6a0emb&_ms!6m24ddper@e_08&!@2)fc852%ek3zoa99p^msqp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['67b742ea99074746b4823af3735e7f1c.vfs.cloud9.eu-west-1.amazonaws.com']
+ALLOWED_HOSTS = ['festivalbookingsystem-env.eba-yxp3mx8d.eu-west-1.elasticbeanstalk.com']
 
 
 # Application definition
